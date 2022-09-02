@@ -6,7 +6,6 @@ const App = (props) => {
     <div>
       <button className="btn">Hello daisyUI</button>
       <button className="btn">Hello daisyUI</button>
-      <button className="btn">Hello daisyUI</button>
     </div>
   );
 };
